@@ -6,6 +6,14 @@ import { XML_Head } from './scenic_spot_C_f.json';
 
 const { Infos: { Info: ItemList }} = XML_Head;
 
+ItemList.unshift({
+  Region: 'Region',
+  Town: 'Town',
+  Name: 'Name',
+});
+
+console.warn(ItemList);
+
 function App() {
   return (
     <div className={styleModule.App}>
