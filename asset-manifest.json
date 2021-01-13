@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sightseeing-map/static/css/main.fccc05bf.chunk.css",
-    "main.js": "/sightseeing-map/static/js/main.1e42248a.chunk.js",
-    "main.js.map": "/sightseeing-map/static/js/main.1e42248a.chunk.js.map",
+    "main.js": "/sightseeing-map/static/js/main.05e742fb.chunk.js",
+    "main.js.map": "/sightseeing-map/static/js/main.05e742fb.chunk.js.map",
     "runtime-main.js": "/sightseeing-map/static/js/runtime-main.6c200e2d.js",
     "runtime-main.js.map": "/sightseeing-map/static/js/runtime-main.6c200e2d.js.map",
     "static/js/2.cce486e7.chunk.js": "/sightseeing-map/static/js/2.cce486e7.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6c200e2d.js",
     "static/js/2.cce486e7.chunk.js",
     "static/css/main.fccc05bf.chunk.css",
-    "static/js/main.1e42248a.chunk.js"
+    "static/js/main.05e742fb.chunk.js"
   ]
 }
