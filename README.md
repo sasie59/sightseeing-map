@@ -1,2 +1,2 @@
-# sightseeing-map
-https://sasie59.github.io/sightseeing-map
+# Sightseeing Map
+Just a Sightseeing Map :)
