@@ -1,23 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import { FixedSizeList as List } from "react-window";
+import AutoSizer from "react-virtualized-auto-sizer";
+
+import styleModule from './App.module.scss';
+import { XML_Head } from './scenic_spot_C_f.json';
+
+const { Infos: { Info: ItemList }} = XML_Head;
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={styleModule.App}>
+      <AutoSizer>
+        {({ height, width }) => (
+          <List
+            itemSize={35}
+            width={width}
+            height={height}
+            itemData={ItemList}
+            itemCount={ItemList.length}
+            className={styleModule.List}
+          >
+            {({ data, index, style }) => (
+              <div className={styleModule.ListItem} style={style}>
+                <div className={styleModule.Region}>{data[index].Region}</div>
+                <div className={styleModule.Town}>{data[index].Town}</div>
+                <div className={styleModule.Name}>{data[index].Name}</div>
+              </div>
+            )}
+          </List>
+        )}
+      </AutoSizer>
     </div>
   );
 }
