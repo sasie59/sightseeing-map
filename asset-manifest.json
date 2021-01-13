@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/sightseeing-map/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/sightseeing-map/static/js/main.37c7dae2.chunk.js",
-    "main.js.map": "/sightseeing-map/static/js/main.37c7dae2.chunk.js.map",
-    "runtime-main.js": "/sightseeing-map/static/js/runtime-main.cf86b110.js",
-    "runtime-main.js.map": "/sightseeing-map/static/js/runtime-main.cf86b110.js.map",
-    "static/js/2.d3e02aca.chunk.js": "/sightseeing-map/static/js/2.d3e02aca.chunk.js",
-    "static/js/2.d3e02aca.chunk.js.map": "/sightseeing-map/static/js/2.d3e02aca.chunk.js.map",
-    "static/js/3.c169ac0b.chunk.js": "/sightseeing-map/static/js/3.c169ac0b.chunk.js",
-    "static/js/3.c169ac0b.chunk.js.map": "/sightseeing-map/static/js/3.c169ac0b.chunk.js.map",
+    "main.css": "/sightseeing-map/static/css/main.fccc05bf.chunk.css",
+    "main.js": "/sightseeing-map/static/js/main.1e42248a.chunk.js",
+    "main.js.map": "/sightseeing-map/static/js/main.1e42248a.chunk.js.map",
+    "runtime-main.js": "/sightseeing-map/static/js/runtime-main.6c200e2d.js",
+    "runtime-main.js.map": "/sightseeing-map/static/js/runtime-main.6c200e2d.js.map",
+    "static/js/2.cce486e7.chunk.js": "/sightseeing-map/static/js/2.cce486e7.chunk.js",
+    "static/js/2.cce486e7.chunk.js.map": "/sightseeing-map/static/js/2.cce486e7.chunk.js.map",
+    "static/js/3.f07abd8d.chunk.js": "/sightseeing-map/static/js/3.f07abd8d.chunk.js",
+    "static/js/3.f07abd8d.chunk.js.map": "/sightseeing-map/static/js/3.f07abd8d.chunk.js.map",
     "index.html": "/sightseeing-map/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/sightseeing-map/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d3e02aca.chunk.js.LICENSE.txt": "/sightseeing-map/static/js/2.d3e02aca.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/sightseeing-map/static/media/logo.6ce24c58.svg"
+    "static/css/main.fccc05bf.chunk.css.map": "/sightseeing-map/static/css/main.fccc05bf.chunk.css.map",
+    "static/js/2.cce486e7.chunk.js.LICENSE.txt": "/sightseeing-map/static/js/2.cce486e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf86b110.js",
-    "static/js/2.d3e02aca.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.37c7dae2.chunk.js"
+    "static/js/runtime-main.6c200e2d.js",
+    "static/js/2.cce486e7.chunk.js",
+    "static/css/main.fccc05bf.chunk.css",
+    "static/js/main.1e42248a.chunk.js"
   ]
 }
